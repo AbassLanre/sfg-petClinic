@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.abassapp</groupId>
     <artifactId>sfg-petClinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>sfg-petClinic</name>
     <description>sfg-petClinic</description>
     <properties>
@@ -42,7 +42,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:abasslanre/sfg-petClinic</developerConnection>
-      <tag>sfg-petClinic-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
